@@ -63,9 +63,6 @@ namespace WindowsFormsApp4
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            string x1 = textBox1.Text;
-            string a1 = comboBox1.Text;
-            string b1 = checkedListBox1.Text;
             double x = Convert.ToDouble(textBox1.Text);
             double a = Convert.ToDouble(comboBox1.Text);
             double b = Convert.ToDouble(checkedListBox1.Text);
